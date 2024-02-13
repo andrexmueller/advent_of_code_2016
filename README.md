@@ -8,5 +8,6 @@
 <p>** Day 5: How About a Nice Game of Chess?
 <p>** Day 6: Signals and Noise 
 <p>** Day 7: Internet Protocol Version 7
-<p>Day 8: Two-Factor Authentication
+<p>** Day 8: Two-Factor Authentication
+<p> Day 9: Explosives in Cyberspace
 
